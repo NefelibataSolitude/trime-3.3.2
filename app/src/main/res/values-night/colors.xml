@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!--
+SPDX-FileCopyrightText: 2015 - 2024 Rime community
+
+SPDX-License-Identifier: GPL-3.0-or-later
+-->
+
+<resources>
+    <color name="colorSurface">#000000</color>
+    <color name="colorBackground">#121212</color>
+    <color name="colorError">#F44336</color>
+    <color name="colorOnSurface">#FFFFFF</color>
+    <color name="colorOnBackground">#FFFFFF</color>
+    <color name="colorOnError">#FFFFFF</color>
+</resources>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!--
+SPDX-FileCopyrightText: 2015 - 2024 Rime community
+
+SPDX-License-Identifier: GPL-3.0-or-later
+-->
+
+<resources>
+    <color name="red_A700">#D50000</color>
+    <color name="red_400">#EF5350</color>
+    <color name="yellow_500">#FFEB3B</color>
+    <color name="yellow_800">#F9A825</color>
+    <color name="blue_500">#2196F3</color>
+    <color name="grey_400">#BDBDBD</color>
+    <color name="grey_700">#616161</color>
+
+    <!-- 本色彩方案取自 Rime 官网（https://rime.im） -->
+    <color name="colorPrimary">#2C3E50</color> <!-- 浅主题色 -->
+    <color name="colorPrimaryDark">#1E2B38</color> <!-- 深主题色 -->
+    <color name="colorAccent">#009BD1</color>  <!-- 浅强调色 -->
+    <color name="colorAccentDark">#006C92</color> <!-- 深强调色 -->
+    <color name="colorBackground">#FFFFFF</color>
+    <color name="colorSurface">#FFFFFF</color>
+    <color name="colorError">#D32F2F</color>
+    
+    <color name="colorOnPrimary">#FFFFFF</color>
+    <color name="colorOnSecondary">#FFFFFF</color>
+    <color name="colorOnBackground">#000000</color>
+    <color name="colorOnSurface">#000000</color>
+    <color name="colorOnError">#FFFFFF</color>
+    <color name="toolbarForegroundColor">#FFFFFF</color>  <!-- 工具栏前景色 -->
+
+</resources>
