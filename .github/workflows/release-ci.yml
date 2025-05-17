@@ -32,6 +32,8 @@ jobs:
           java-version: 17
           # will restore cache of dependencies and wrappers
           cache: 'gradle'
+      - name: Make gradlew executable
+        run: chmod +x ./gradlew
 
       - name: Calculate JNI cache hash
         id: cache-hash
